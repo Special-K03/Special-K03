@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>WAZUH SIEM Home-build (In-Progess) </b>
+- <b>WAZUH SIEM Home-build </b>
   - <a href="https://github.com/Special-K03/Wazuh-SIEM">WAZUH SIEM Biuld </a>
   
 - <b>MORE PROJECTS TO COME!! </b>
