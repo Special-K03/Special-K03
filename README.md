@@ -3,7 +3,10 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>WAZUH SIEM Home-build </b>
-  - <a href="https://github.com/Special-K03/Wazuh-SIEM">WAZUH SIEM Biuld </a>
+  - <a href="https://github.com/Special-K03/Wazuh-SIEM">WAZUH SIEM Build </a>
+
+- <b>Project Azure — SWBTL LLC Cloud Security Implementation </b>
+  - <a href="https://github.com/Special-K03/Project_Azure">Cloud Security Implementation </a>
   
 - <b>MORE PROJECTS TO COME!! </b>
 
