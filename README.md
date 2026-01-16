@@ -11,6 +11,9 @@
 - <b>Docker Installation With Security Configuration  </b>
   - <a href="https://github.com/Special-K03/Docker-Install-w-Security-Configuration/blob/main/README.md">Docker Installation </a>
   - <a href="https://github.com/Special-K03/Docker-Security-Configuration">Docker Security Configuration</a>
+
+- <b>Mock Configuration Package w/ Buisness Rewuirements Document (BRD)   </b>
+  - <a href="https://github.com/Special-K03/Mock-Business-Requirements-Document-BRD-">Configuration Package w/ BRD </a>
   
 - <b>MORE PROJECTS TO COME!! </b>
 
