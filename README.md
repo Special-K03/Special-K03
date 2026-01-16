@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kaleb! <br/><a href="https://github.com/Special-K03"> <a href="https://www.linkedin.com/in/kaleb-barnes-/"> Cybersecurity Professional</a>, <a href="https://thesavagecompound.com/">Entrepreneur</a></h1>
+<h1>Hi, I'm Kaleb! <br/><a href="https://github.com/Special-K03"> <a href="https://www.linkedin.com/in/kaleb-barnes-/"> Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
